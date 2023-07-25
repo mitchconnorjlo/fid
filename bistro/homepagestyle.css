@@ -2,7 +2,7 @@ body {
     background-color: #faf2e4;
     margin: 0 10%;
     font-family: sans-serif; 
-    background: whitesmoke url(Images/blackgoose2.png) no-repeat center 100px fixed;
+    background: url(Images/blackgoose2.png) no-repeat center 100px fixed;
 }
 
 h1 { 
